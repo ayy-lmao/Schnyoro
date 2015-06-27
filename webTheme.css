@@ -1,0 +1,38 @@
+/*Navbar*/
+
+.navbar {
+    background-color: #4183D7;
+    border-width: 0px;
+    border-style: none;
+    border-radius: 0px;
+    color:white;
+}
+
+#title {
+    color:white;
+}
+
+#header-link {
+    color:white;
+}
+
+/* Body */
+body {
+    background-color: #DDDDDD;
+}
+
+#main-box {
+    background-color: white;
+}
+
+#headline {
+    background-color: #444;
+    border-radius: 5px;
+}
+
+#demoCanvas {
+    border-radius: 6px;
+    -webkit-box-shadow: 0px 0px 31px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 31px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 31px -1px rgba(0,0,0,0.75);
+}
